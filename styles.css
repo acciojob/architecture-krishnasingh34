@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.container{
+	width:1100px;
+	background-color:wheat;
+}
+.imageContainer img{
+	width:400px;
+	height:200px;
+}
+.first, .second{
+	width:200px;
+}
+.third{
+	width:600px;
+}
+
+
+
